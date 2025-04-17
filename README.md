@@ -47,8 +47,13 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot 2025-04-17 114150](https://github.com/user-attachments/assets/37caa1d4-e855-4fab-8b54-7f6704088711)
+
+![Screenshot 2025-04-17 114135](https://github.com/user-attachments/assets/91277d20-111e-4641-b68a-1fbc3537b3b7)
+
+
+### Name:Mahasri D
+### Register Number:212224220058
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
